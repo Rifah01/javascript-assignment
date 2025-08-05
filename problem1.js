@@ -3,6 +3,6 @@ var area = 2060;
 //write your code here
 
 var result= area / 2;
-    console.log("Result is:" , result)
+    console.log("Result is:" , result) ;
 
 
